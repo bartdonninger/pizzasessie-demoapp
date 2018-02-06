@@ -1,3 +1,5 @@
+> This is a work on progress.
+
 # Introduction
 
 This is a quick demostration of Vue.js application created for a local developer meeting.
