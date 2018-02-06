@@ -66,7 +66,7 @@ The points at which you, as the developer, can interact with the Instance lifecy
 
 Most of the time you will only be using the created or mounted hooks as most others are limited in scope as to what you can actually do.
 
-> One thing to keep in mind is that, if you're using jQuery and you wish to directly manipulate parts of the DOM using jQuery, you might find that your changes are not persisted when the virtual DOM is rendered to the browser. Any changes to the DOM have to be done through using one or two-way databinding for the changes to persist through the rendering phase.
+> One thing to keep in mind is that, if you're using jQuery and you wish to directly manipulate parts of the DOM using jQuery, you might find that your changes are not persisted when the virtual DOM is rendered to the browser. Any changes to the DOM have to be done through using one or two-way databinding for the changes to persist through the rendering phase. Later on we'll see how one or two-way databinding works in Vue.js.
 
 For more information regarding the Vue.js Instance lifecycle see the [Vue.js documentation](https://vuejs.org/v2/guide/instance.html)
 
